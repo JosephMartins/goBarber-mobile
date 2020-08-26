@@ -21,7 +21,6 @@ export const BackButton = styled.TouchableOpacity`
 export const UserAvatarButton = styled.TouchableOpacity`
   justify-content: center;
   align-items: center;
-  margin-top: 32px;
 `;
 export const UserAvatar = styled.Image`
   width: 186px;
